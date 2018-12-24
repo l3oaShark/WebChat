@@ -3,11 +3,9 @@ new Vue({
   data:{
     newData:{
       userName:"User Name",
-      Email:"Email",
       Password:"Password",
-      ConfirmPassword:"Confirm Password"
     },
-    Register:[
+    User:[
       {
         userName:"admin",
         Password:"admin123!@#"
@@ -18,8 +16,8 @@ new Vue({
       }
     ]
   },methods:{
-    addRegister:function(){
-      this.Register.push({
+    addlogin:function(){
+      this.User.push({
         userName:this.newData.userName,
         Password:this.newData.Password
       });
