@@ -9,5 +9,5 @@ next week will have show status online and offline and connect DB
 31/12/18\
 create chat room railtime
 ![alt text](https://github.com/thel3oat5678/WebChat/blob/master/login.jpg)
-![alt text](https://github.com/thel3oat5678/WebChat/blob/master/login duplicate.jpg)
-![alt text](https://github.com/thel3oat5678/WebChat/blob/master/chat room.jpg)
+![alt text](https://github.com/thel3oat5678/WebChat/blob/master/login_duplicate.jpg)
+![alt text](https://github.com/thel3oat5678/WebChat/blob/master/chat_room.jpg)
